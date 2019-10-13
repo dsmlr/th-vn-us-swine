@@ -5,7 +5,7 @@ The SNP data set came from 676 swine samples of 21 breeds. The data were collect
 The details of each class are shown in the following table.
 
 | Class	| Breed	        | Number of Sample |
-|-------|:-------------:| --------:|
+|:-----:|:-------------:|:-------:|
 |1	    |Creole		      |90|
 |2	    |Monteiro	      |10|
 |3	    |Zungo		      |10|
@@ -27,7 +27,7 @@ The details of each class are shown in the following table.
 |19	    |BA_ME		      |11|
 |20	    |CP_SO		      |12|
 |21	    |Bisaro		      |14|
-|-------|:-------------:| -----:|
+|-------|
 |Total	|         		|676|
 | ------|:-------------:| -----:|
 
