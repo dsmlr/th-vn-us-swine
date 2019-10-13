@@ -32,7 +32,7 @@ The details of each class are shown in the following table.
 
 If you are interested in further investigating your own study throughout this dataset, Please cite this article as:
 
-Wanthanee Rathasamuth and Kitsuchart Pasupa, "A Modified Binary Flower Pollination Algorithm: A Fast and Effective Combination of Feature Selection Techniques for SNP Classification", In: Proceedings of the 11th International Conference on Information Technology and Electrical Engineering (ICITEE 2019), 10-11 October 2019, Pattaya, Thailand.
+**Wanthanee Rathasamuth and Kitsuchart Pasupa, "A Modified Binary Flower Pollination Algorithm: A Fast and Effective Combination of Feature Selection Techniques for SNP Classification", In: Proceedings of the 11th International Conference on Information Technology and Electrical Engineering (ICITEE 2019), 10-11 October 2019, Pattaya, Thailand.
 
 ## References
 [1] Burgos-Paz, W., et al. (2013), "Porcine colonization of the Americas: a 60k SNP story," Heredity, 110(4):321-330. <br>
