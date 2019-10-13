@@ -27,9 +27,8 @@ The details of each class are shown in the following table.
 |19	    |BA_ME		      |11|
 |20	    |CP_SO		      |12|
 |21	    |Bisaro		      |14|
-|-------|
+| |
 |Total	|         		|676|
-| ------|:-------------:| -----:|
 
 If you are interested in further investigating your own study throughout this dataset, Please cite this article as:
 
