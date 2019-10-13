@@ -36,5 +36,7 @@ Wanthanee Rathasamuth and Kitsuchart Pasupa, "A Modified Binary Flower Pollinati
 
 ## References
 [1] Burgos-Paz, W., et al. (2013), "Porcine colonization of the Americas: a 60k SNP story," Heredity, 110(4):321-330.
+
 [2] Tuangsithtanon, K (2019), "Population structure in porcine," Figshare, Dataset, https://doi.org/10.6084/m9.figshare.8830799.v1.
+
 [3] Ishihara, S., et al. (2018), "Genetic relationships among Vietnamese local pigs investigated using genome‐wide SNP markers," Animal Genetics, 49(1): 86-89.
